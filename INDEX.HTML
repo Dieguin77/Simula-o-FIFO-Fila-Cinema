@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fila do Cinema - Simulação FIFO</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+
+    <header>
+        <h1>Fila de Espera no Cinema</h1>
+    </header>
+
+    <main>
+
+        <section id="controle-fila">
+            <h2>Próximos na Fila (<span id="contador-fila">0</span> Pessoas)</h2>
+            <div id="lista-fila">
+                </div>
+            
+            <div class="botoes-acao">
+                <button id="btn-entrar-sessao">Entrar na Sessão</button>
+                <button id="btn-popular-fila">Gerar Pessoas</button>
+            </div>
+        </section>
+
+        <section id="sessao-atual">
+            <h2>Sessão Atual</h2>
+            <div id="detalhes-sessao">
+                <p>Clique em "Gerar Pessoas" para popular a fila.</p>
+            </div>
+        </section>
+
+        <section id="historico-sessoes">
+            <h2>Sessões Assistidas</h2>
+            <ul id="lista-historico">
+                </ul>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script> 
+</body>
+</html>

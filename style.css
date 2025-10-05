@@ -1,0 +1,97 @@
+body {
+    
+    font-family: 'Georgia', serif; 
+    margin: 0;
+    padding: 20px;
+    background-color: #1E2A38; 
+    color: #F0F0F0; 
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1, h2, h4 {
+    color: #E6B31E; 
+    text-transform: uppercase;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    
+    padding: 20px;
+    border: 1px solid #34495E;
+    border-radius: 8px;
+    background-color: #2C3E50; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+button {
+    background-color: #C0392B; 
+    color: #F0F0F0;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #E74C3C; 
+}
+
+
+#lista-fila {
+    border: 1px solid #5D6D7E;
+    padding: 15px;
+    margin-bottom: 20px;
+    min-height: 100px;
+    overflow-y: auto;
+    background-color: #34495E; 
+}
+
+.item-fila {
+    margin: 8px 0;
+    padding: 8px;
+    background-color: #4A6070; 
+    border-left: 5px solid #E6B31E;
+    border-radius: 4px;
+}
+
+
+.card-filme {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    align-items: flex-start;
+    border: 2px solid #E6B31E; 
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.poster-filme {
+    width: 100px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+
+#lista-historico li {
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 5px;
+    border-bottom: 1px dashed #5D6D7E;
+    color: #BDC3C7; 
+}
