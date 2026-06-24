@@ -23,7 +23,7 @@ Projeto desenvolvido para simular uma fila FIFO (First In, First Out) utilizando
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Estrutura de Dados FIFO (First In, First Out)
 - Consumo de APIs REST
@@ -49,11 +49,11 @@ GitHub: https://github.com/Dieguin77
 Portfólio: https://diegodev.dev.br
 
 
-## 📷 Demonstração
+##  Demonstração
 
 ![Sistema FIFO Cinema](./image.png)
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos importantes como:
 
