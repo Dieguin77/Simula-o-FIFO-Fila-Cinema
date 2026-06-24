@@ -24,6 +24,16 @@ Projeto desenvolvido para simular uma fila FIFO (First In, First Out) utilizando
 
 ---
 
+## 🧠 Conceitos Aplicados
+
+- Estrutura de Dados FIFO (First In, First Out)
+- Consumo de APIs REST
+- Manipulação do DOM
+- JavaScript Assíncrono
+- Programação Orientada a Eventos
+
+---
+
 ##  Projeto Online
 
 https://dieguin77.github.io/Simula-o-FIFO-Fila-Cinema/
