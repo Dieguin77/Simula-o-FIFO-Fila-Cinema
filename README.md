@@ -52,3 +52,14 @@ Portfólio: https://diegodev.dev.br
 ## 📷 Demonstração
 
 ![Sistema FIFO Cinema](./image.png)
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto foram aplicados conceitos importantes como:
+
+- Estrutura de Dados FIFO (First In, First Out);
+- Manipulação dinâmica do DOM;
+- Consumo de APIs REST;
+- JavaScript assíncrono;
+- Programação orientada a eventos;
+- Organização de código em JavaScript puro.
