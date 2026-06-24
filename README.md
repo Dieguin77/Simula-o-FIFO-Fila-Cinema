@@ -18,7 +18,6 @@ Projeto desenvolvido para simular uma fila FIFO (First In, First Out) utilizando
 
 - Simulação de fila FIFO
 - Consulta de filmes através da API OMDb
-- Interface simples e responsiva
 - Manipulação dinâmica do DOM
 - Interface responsiva
 
